@@ -2,4 +2,5 @@
 
 [Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/plantanoid/rollercoaster-project)
 
-# this is coen's bran
+# this is coen's branch
+[comment]: <> (We will need a file that contains every relevant roller coaster in the world. For each roller coaster we need information like what country its in, wait times, speed, g-force, aspects of the ride like loops etc., how well themed it is if it is at all, or any other pieces of relevant information. The user should first be prompted with a question of if they have ridden a roller coaster before. If yes get them to enter which ones and rate certain aspects of the roller coaster based on how much they liked them, then after that give the user a list of similiar roller coaster that would match they things they value about the coaster they have ridden. If they have not ridden a roller coaster the user will be presented with a survey containing more common terminology so they can understand the questions, based on what they choose present them with roller coasters that match their preferences.)
